@@ -8,4 +8,4 @@
 
 ##### 👨‍💻‍ Java/SQL/Python, Spring Boot/Redis/MQ/Linux, [难以想象的晴朗](https://www.cnblogs.com/imzhizi/)是我的技术博客
 
-##### ✍️ 你可以从[语雀](https://www.yuque.com/breezebless/me)看到我的文字, 还可以[豆瓣](https://www.douban.com/people/imzhizi/)在找到我
+##### ✍️ 你可以从[语雀](https://www.yuque.com/breezebless/me)看到我的文字, 还可以在[豆瓣](https://www.douban.com/people/imzhizi/)找到我
