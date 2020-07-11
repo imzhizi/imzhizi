@@ -1,10 +1,6 @@
-<div align="center">
-	<img src="https://imzhizi.com/avatar.png" alt="Editor" width="100">
-</div>
-
 ### 大家好，这里是质子
 
-硏究生在读 | 北京 | 程序员初级
+###### 硏究生在读 | 北京 | 程序员初级
 
 对科技、文化、生活有着广泛的兴趣和热情
 
