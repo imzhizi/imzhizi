@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+	<img src="https://imzhizi.com/avatar.png" alt="Editor" width="100">
+</div>
 
-<!--
-**imzhizi/imzhizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 大家好，这里是质子
 
-Here are some ideas to get you started:
+硏究生在读 | 北京 | 程序员初级
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+对科技、文化、生活有着广泛的兴趣和热情
+
+~~一个适合做朋友的人~~
+
+主要从事服务器相关的开发, 我会在[博客园写技术博客](https://www.cnblogs.com/imzhizi/)
+
+你可以从[语雀](https://www.yuque.com/breezebless/me)看到我的文字, 还可以[豆瓣](https://www.douban.com/people/imzhizi/)在找到我
