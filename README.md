@@ -10,6 +10,6 @@
 
 ~~一个适合做朋友的人~~
 
-主要从事服务器相关的开发, 我会在[博客园写技术博客](https://www.cnblogs.com/imzhizi/)
+主要从事服务器相关的开发, [难以想象的晴朗](https://www.cnblogs.com/imzhizi/)是我的技术博客
 
 你可以从[语雀](https://www.yuque.com/breezebless/me)看到我的文字, 还可以[豆瓣](https://www.douban.com/people/imzhizi/)在找到我
