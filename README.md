@@ -4,6 +4,8 @@
 
 ##### 🚀 对科技、文化、生活有着广泛的兴趣和热情
 
+##### 🔨 工具爱好者
+
 ##### 🏄 ~~一个适合做朋友的人~~
 
 ##### 👨‍💻‍ Java/SQL/Python, Spring Boot/Redis/MQ/Linux, [难以想象的晴朗](https://www.cnblogs.com/imzhizi/)是我的技术博客
