@@ -1,15 +1,13 @@
-### 大家好，这里是质子
+## 质子
 
-###### 硏究生在读 | 北京 | 程序员初级
+[🍃 Breeze Bless](https://imzhizi.github.io/)
 
-##### 🚀 对科技、文化、生活有着广泛的兴趣和热情
+英美影视剧 播客爱好者
 
-##### 🔨 生产力应用爱好者
+大厂螺丝钉 互联网观察者
 
-##### 🎬 电影爱好者
+永远半吊子 永远浅尝辄止
 
-##### 🏄 ~~一个适合做朋友的人~~
+瞎写一下，更新无常
 
-##### 👨‍💻‍ Java/SQL/Python, Spring Boot/Redis/MQ/Linux, [难以想象的晴朗](https://www.cnblogs.com/imzhizi/)是我的技术博客(已停更)
-
-##### ✍️ 你可以从[Breeze Bless U](https://imzhizi.com)看到我的文字, 还可以在[豆瓣](https://www.douban.com/people/imzhizi/)找到我
+May The Freedom Be With U
